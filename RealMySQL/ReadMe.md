@@ -64,6 +64,6 @@
 
 
 ### 질문하기 
-- [질문하기](https://github.com/Growing-Up-Together/ReadingRecord/issues/new?asignees=&labels=Real+MySQL+8.0&title=%5B0%EC%9E%A5%5D%20%EC%A7%88%EB%AC%B8%20%EC%A0%9C%EB%AA%A9&body=%3E%20p.%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A7%88%EB%AC%B8%20%EB%82%B4%EC%9A%A9)
+- [질문하기](https://github.com/Growing-Up-Together/ReadingRecord/issues/new?asignees=&labels=Real+MySQL+8.0&projects=Real+MySQL+8.0&title=%5B0%EC%9E%A5%5D%20%EC%A7%88%EB%AC%B8%20%EC%A0%9C%EB%AA%A9&body=%3E%20p.%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A7%88%EB%AC%B8%20%EB%82%B4%EC%9A%A9)
 - 튜터를 `asignees` 로 지정한다.
 ---
