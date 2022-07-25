@@ -31,8 +31,12 @@
 
 ### 스터디 시작
 
-- 8월 2일(화) 오후 9시 [게터타운](https://app.gather.town/app/M2ZXRbC5ISCQLS0W/growing-up-together)
+- 8월 2일(화) 오후 9시 [게터타운](https://app.gather.town/app/x1MJiLEigDliV4O0/RealMySQL)
 - 1,2장 김해동 
+- 3장 김차원
+- 4장 최희진
+- 5장 하희진
+- 6장 김해동
 
 ### 스터디 일정
 
@@ -60,8 +64,7 @@
 ### O.T 
 
 - **7월 25일(월) 오후 9시**
-- 장소: [https://app.gather.town/app/M2ZXRbC5ISCQLS0W/growing-up-together](https://app.gather.town/app/M2ZXRbC5ISCQLS0W/growing-up-together)
-
+- 장소: [https://app.gather.town/app/x1MJiLEigDliV4O0/RealMySQL](https://app.gather.town/app/x1MJiLEigDliV4O0/RealMySQL)
 
 ### 질문하기 
 - [질문하기](https://github.com/Growing-Up-Together/ReadingRecord/issues/new?asignees=&labels=Real+MySQL+8.0&projects=Real+MySQL+8.0&title=%5B0%EC%9E%A5%5D%20%EC%A7%88%EB%AC%B8%20%EC%A0%9C%EB%AA%A9&body=%3E%20p.%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A7%88%EB%AC%B8%20%EB%82%B4%EC%9A%A9)
