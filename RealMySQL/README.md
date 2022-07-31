@@ -1,14 +1,12 @@
 # Real MySQL 8.0
 
----
-
 ## 교재
 
 - RealMySQL 1, 2권
 
 ## 학습 방법
 
-- java-Bom 책 읽기 학습 방식으로 스터디를 진행하려고 합니다.
+- Java-Bom 책 읽기 학습 방식으로 스터디를 진행하려고 합니다.
     - 리파지토리: [https://github.com/Java-Bom/ReadingRecord](https://github.com/Java-Bom/ReadingRecord)
     - 블로그:  [https://javabom.tistory.com/70](https://javabom.tistory.com/70)
 
@@ -26,13 +24,12 @@
 - 튜터가 해결하지 못한 이슈는 모여서 해결하고, 해결하지 못한 이슈는 `continue`로 남겨둔다
 - 챕터의 내용 공유가 끝나면 추가학습으로 다음 챕터를 미리 읽는다(선택)
 
----
 ## 스터디 규칙
 
 ### 스터디 시작
 
 - 8월 2일(화) 오후 9시 [게터타운](https://app.gather.town/app/x1MJiLEigDliV4O0/RealMySQL)
-- 1,2장 김해동 
+- 1,2장 김해동
 - 3장 김차원
 - 4장 최희진
 - 5장 하희진
@@ -61,12 +58,11 @@
 - 아쉬웠던 점
 - 액션 플랜
 
-### O.T 
+### O.T
 
 - **7월 25일(월) 오후 9시**
-- 장소: [https://app.gather.town/app/x1MJiLEigDliV4O0/RealMySQL](https://app.gather.town/app/x1MJiLEigDliV4O0/RealMySQL)
 
-### 질문하기 
+### 질문하기
+
 - [질문하기](https://github.com/Growing-Up-Together/ReadingRecord/issues/new?asignees=&labels=Real+MySQL+8.0&projects=Real+MySQL+8.0&title=%5B0%EC%9E%A5%5D%20%EC%A7%88%EB%AC%B8%20%EC%A0%9C%EB%AA%A9&body=%3E%20p.%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A7%88%EB%AC%B8%20%EB%82%B4%EC%9A%A9)
 - 튜터를 `asignees` 로 지정한다.
----
