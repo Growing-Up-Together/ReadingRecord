@@ -62,9 +62,8 @@
   - 결석: 1번
   - 미리 시간 조정 가능. 야근은 제외
 
-### 서기 로테이선 순서
-
-- 해도앙(Haedoang)
-- 빈즈(Beenz)
-- 위니(Winnie)
-- 히동(Heedong)
+- 서기 로테이선 순서
+  - 해도앙(Haedoang)
+  - 빈즈(Beenz)
+  - 위니(Winnie)
+  - 히동(Heedong)
