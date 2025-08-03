@@ -2,4 +2,4 @@
 
 ## 학습 중
 
-- [Real MySQL 8.0](RealMySQL/README.md)
+- [카프카 핵심 가이드](카프카_핵심_가이드/README.md)
