@@ -26,9 +26,10 @@
 ## 스터디 일정
 
 - 25.08.06 시작
+
 #### 스터디 날짜
 
-- 수요일: 오후 9시
+- 격주 수요일: 오후 9시
 
 #### 스터디 시간
 - 기본 2시간
@@ -55,3 +56,7 @@
   - beenz
   - runnz121
   - tkaqkeldk
+
+
+## 스터디 장소
+[게더타운🚀](https://app.gather.town/invite?token=LkDBH2MtRou_Earz2Ytu)
